@@ -12,5 +12,9 @@
       "../common/mixins",
       "./mixins"
     ]
+  },
+  "Users": {
+    "dataSource": "database",
+    "public": true
   }
 }

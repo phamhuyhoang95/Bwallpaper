@@ -1,1 +1,8 @@
-{}
+{
+  "database": {
+    "name": "database",
+    "localStorage": "",
+    "file": "",
+    "connector": "memory"
+  }
+}
